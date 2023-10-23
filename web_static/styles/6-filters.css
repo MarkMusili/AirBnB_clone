@@ -71,7 +71,8 @@
     border-radius: 4px;
     list-style-type: none;
     padding-bottom: 10%;
-}  
+}
+
 .filters .amenities .popover {
     display: none;
     position: absolute;
